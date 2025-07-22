@@ -3,7 +3,7 @@
 ## Auto-Subtitled-Video-Generator
 
 #### About this project
-- This project is an automatic speech recognition application that takes a YouTube video link or a video file as input to generate a video with subtitles.
+- This project is an automatic speech recognition application that takes a video file as input to generate a video with subtitles.
 - You can also upload an audio file to generate a transcript as .txt, .vtt, .srt files.
 - The application performs 2 tasks:
   - Detects the language, transcribes the input video in its original language.
